@@ -31,7 +31,7 @@ Welcome to X-Bank. We've just leased a Linux server for our new branch. Head off
    - (d) return to `reports/` using an **absolute** path
 5. **Submit your evidence:** `tree /srv/bank` output plus your command history saved to a file called `ticket001_evidence.txt` in your home directory.
 
-**Bonus (for the ambitious):** rebuild the entire blueprint from scratch in **one single command**.
+**Bonus:** rebuild the entire blueprint from scratch in **one single command**.
 
 ## Acceptance Criteria
 
