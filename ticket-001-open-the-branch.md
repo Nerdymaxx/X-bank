@@ -37,7 +37,7 @@ Welcome to X-Bank. We've just leased a Linux server for our new branch. Head off
 
 - Structure matches the blueprint character-for-character.
 - Account files contain the opening line.
-- You can explain, out loud, the difference between the path you used in 4(b) and the one in 4(d).
+- explain, the difference between the path you used in 4(b) and the one in 4(d)
 
 ---
 
